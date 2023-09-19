@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\bin\Debug\isimyaz.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\bin\Debug\isimyaz.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\bin\Debug\isimyaz.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\isimyaz\isimyaz\obj\Debug\isimyaz.pdb
